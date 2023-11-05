@@ -6,7 +6,7 @@
 // for a hint.
 
 fn main() {
-    let mut data = "Rust is great!".to_string();
+    let data = "Rust is great!".to_string();
 
     get_char(&data);
 
